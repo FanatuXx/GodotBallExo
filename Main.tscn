@@ -134,6 +134,7 @@ shape = SubResource("2")
 
 [node name="Ball" parent="." unique_id=1158874253 instance=ExtResource("2")]
 position = Vector2(359, 55)
+gravity_scale = 10.0
 
 [node name="Ball2" parent="." unique_id=733381730 instance=ExtResource("2")]
 position = Vector2(632, 47)
